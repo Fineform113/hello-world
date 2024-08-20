@@ -1,2 +1,5 @@
-# hello-world
-this repository is used for practicing GitHub flow
+# hello-world project
+
+> A repository for practicing Git workflow
+
+### By: Fineform
